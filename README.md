@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My trivial projects
-- [My Hacker News Search 📰](https://kevincoming.github.io/my-hacker-news/)
+- 📰 [My Hacker News Search](https://kevincoming.github.io/my-hacker-news/)
 <!--
 **kevincoming/kevincoming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
